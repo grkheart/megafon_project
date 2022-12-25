@@ -49,6 +49,6 @@ answers_test.csv - файл с ответами, предсказание вер
 data_train.csv
 data_test.csv
 features.csv.zip
-Их можно скачать по ссылке
+Их можно скачать [по ссылке](https://drive.google.com/drive/folders/1LCUYS7uXKKZenNn8fUTjq_iupelNRAfQ)
 
 Файлы должны находиться в корне проекта. Архив features.csv.zip нужно распаковать.
