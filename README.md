@@ -39,7 +39,8 @@ target - целевая переменная, где 1 означает подк
 [answers_test.csv](https://github.com/grkheart/megafon_project/blob/main/answers_test.csv) - файл с ответами, предсказание вероятности подключения услуги по тестовой выборке
 
 [Презентация.pdf](https://github.com/grkheart/megafon_project/blob/main/Презентация.pdf) - презентация к проекту
-Инструкция.pdf - инструкция к выполнению проекта, также есть в формате docx
+
+[Инструкция.pdf](https://github.com/grkheart/megafon_project/blob/main/Инструкция%20к%20финальному%20проекту.docx) - инструкция к выполнению проекта
 
 ## Запуск проекта
 
