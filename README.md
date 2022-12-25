@@ -30,13 +30,13 @@ target - целевая переменная, где 1 означает подк
 
 ## Список файлов
 
-data_preprocessing.ipynb - предобработка данных
+[data_preprocessing.ipynb](https://github.com/grkheart/megafon_project/blob/main/data_preprocessing.ipynb) - предобработка данных
 
-model_pipeline.ipynb - основная часть: обработка признаков, балансировка данных, построение пайплайнов, обучение моделей, предсказания и оценка качества моделей, выбор CatBoostClassifier в качестве основной модели для предсказания на тестовой выборке
+[model_pipeline.ipynb](https://github.com/grkheart/megafon_project/blob/main/model_pipeline.ipynb) - основная часть: обработка признаков, балансировка данных, построение пайплайнов, обучение моделей, предсказания и оценка качества моделей, выбор CatBoostClassifier в качестве основной модели для предсказания на тестовой выборке
 
-cat_boost_classifier_model.pickle - обученная модель CatBoostClassifier в формате pickle
+[cat_boost_classifier_model.pickle](https://github.com/grkheart/megafon_project/blob/main/cat_boost_classifier_model.pickle) - обученная модель CatBoostClassifier в формате pickle
 
-answers_test.csv - файл с ответами, предсказание вероятности подключения услуги по тестовой выборке
+[answers_test.csv](https://github.com/grkheart/megafon_project/blob/main/answers_test.csv) - файл с ответами, предсказание вероятности подключения услуги по тестовой выборке
 
 [Презентация.pdf](https://github.com/grkheart/megafon_project/blob/main/Презентация.pdf) - презентация к проекту
 Инструкция.pdf - инструкция к выполнению проекта, также есть в формате docx
