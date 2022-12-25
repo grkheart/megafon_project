@@ -38,7 +38,7 @@ cat_boost_classifier_model.pickle - обученная модель CatBoostClas
 
 answers_test.csv - файл с ответами, предсказание вероятности подключения услуги по тестовой выборке
 
-https://github.com/grkheart/megafon_project/blob/main/Презентация.pdf - презентация к проекту, также есть в формате pptx
+[Презентация.pdf]https://github.com/grkheart/megafon_project/blob/main/ - презентация к проекту, также есть в формате pptx
 
 Инструкция.pdf - инструкция к выполнению проекта, также есть в формате docx
 
